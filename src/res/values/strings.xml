@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPS Art</string>
+    <string name="action_export">Export to Image</string>
+    <string name="action_pause">Pause Tracking</string>
+    <string name="action_resume">Resume Tracking</string>
+    <string name="action_clear">Clear Screen</string>
+
+</resources>
